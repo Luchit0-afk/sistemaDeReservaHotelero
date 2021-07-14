@@ -1,0 +1,7 @@
+require_relative 'city'
+require_relative 'hotel'
+require_relative 'province'
+require_relative 'country'
+require_relative 'client'
+require_relative 'booking'
+require_relative 'room'
